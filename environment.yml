@@ -1,0 +1,15 @@
+name: nckuworkshoptest
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - ipywidgets
+  - matplotlib
+  - pandas
+  - geopandas
+  - pip
+  - ipympl
